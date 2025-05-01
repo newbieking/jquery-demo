@@ -10,6 +10,12 @@
 - 手机界面模拟展示
 
 ## 快速开始
+0. 三方接口请求配置(本地)
+添加edge插件，配置请求拦截器
+https://microsoftedge.microsoft.com/addons/detail/requestly-free-api-test/ehghoapnlpepjmfbgaomdiilchcjemak
+使用分享的配置链接：
+https://app.requestly.io/rules#sharedList/f88eb97bed814a509e830b55221501f9-headers-1746070510343
+
 1. 直接打开index.html即可运行
 2. 点击按钮测试DOM操作
 3. 使用键盘方向键切换视频
@@ -28,8 +34,6 @@
 ├── phone.png     # 设备框架图
 └── LICENSE       # MIT许可证
 ```
-
-![界面截图](./phone.png)
 
 ## 许可证
 本项目基于 [MIT License](LICENSE) 授权
