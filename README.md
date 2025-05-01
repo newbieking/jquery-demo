@@ -11,9 +11,14 @@
 
 ## 快速开始
 0. 三方接口请求配置(本地)
+
 添加edge插件，配置请求拦截器
+
 https://microsoftedge.microsoft.com/addons/detail/requestly-free-api-test/ehghoapnlpepjmfbgaomdiilchcjemak
+
+
 使用分享的配置链接：
+
 https://app.requestly.io/rules#sharedList/f88eb97bed814a509e830b55221501f9-headers-1746070510343
 
 1. 直接打开index.html即可运行
